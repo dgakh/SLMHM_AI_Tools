@@ -24,72 +24,88 @@ SLMHM model contains 16 levels. The levels are distributed by 4 SPEM patterns.
 
 ### 1.1. Task Statement (Desire)
 Requirements: Full understanding of the project goals and their clear formulation.
+
 To do: Clearly formulate the project goals.
 
 ### 1.2. Executants (Intention)
 Requirements: Designation of the executants. Statement of the Intention.
+
 To do: Clearly state the executants and their roles. Formulate the Statement of Intention for each executant.
 
-### 1.3. Feasibility.
+### 1.3. Feasibility
 Requirements: Means and resources needed to implement the project.
+
 To do: Provide the means and resources needed to implement the project.
 
-### 1.4. Action.
+### 1.4. Action
 Requirements: Actions on project development and implementation.
+
 To do: Perform the project development and implementation.
 
 ## Section ASP
 
-### 2.1. Evaluation.
+### 2.1. Evaluation
 Requirements: Determination and formulation of KPI and means to their evaluation. Evaluation of the KPI.
+
 To do: Provide evaluation of the KPI.
 
-### 2.2. Improvement.
+### 2.2. Improvement
 Requirements: Continuous improvements according to evaluated KPI.
+
 To do: Provide continuous improvements according to evaluated KPI.
 
-### 2.3. Alternatives.
+### 2.3. Alternatives
 Requirements: Considering the alternatives.
+
 To do: Provide consideration of the alternatives.
 
-### 2.4. Innovations.
+### 2.4. Innovations
 Requirements: Determination of whether a solution is an innovation or not.
+
 To do: Formulate criteria for determining whether a solution is an innovation or not. Monitor the solution regularly to determine whether it is an innovation or not.
 
 ## Section ISP
 
-### 3.1. Reward.
+### 3.1. Reward
 Requirements: All relevant parties shall get the reward from the solution (Influence on the society, economy, and natural environment shall be considered).
+
 To do: Determinate all relevant parties. Evaluate individual benefits and losses for all parties.
 
-### 3.2. Optimization.
+### 3.2. Optimization
 Requirements: Increasing benefits and reducing all individual losses for all parties.
+
 To do: Increase benefits and reduce all losses for all parties.
 
-### 3.3. Synergy.
+### 3.3. Synergy
 Requirements: Total benefit for all parties is greater than the sum of individual benefits for the parties. The total loss for all parties is less than the sum of individual losses for the parties.
-To do:
+
+To do: Monitor and determine the achievement of synergy.
 
 ### 3.4. Extraordinary.
 Requirements: Determination of whether a solution is an innovation for all parties or not.
+
 To do: Formulate criteria for determining whether a solution is an innovation for all parties or not. Monitor the solution regularly to determine whether it is an innovation for all parties or not.
 
 ## Section CSP
 
-### 4.1. Information. Generation of new information.
-Requirements: Generation of information as a result of the solution implementation.
+### 4.1. Information
+Requirements: Generation of new information as a result of the solution implementation.
+
 To do: Implement the generation of information as a result of the solution implementation.
 
-### 4.2. Streamlining. Extraction of knowledge.
+### 4.2. Streamlining
 Requirements: Extraction of knowledge from the generated information (see level 4.1.).
+
 To do: Implement the extraction of knowledge from the generated information.
 
-### 4.3. Expansion. Provision of scalability and expansibility. Dissemination of the solution. Growth of dataset.
-Requirements: Increase extraction knowledge
-To do: Provide the systematic increase of extraction knowledge.
+### 4.3. Expansion
+Requirements: Increase knowledge extraction.
 
-### 4.4. Totality.
+To do: Provide the systematic increase of knowledge extraction.
+
+### 4.4. Totality
 Requirements: Total penetration of the solution into all spheres of human life.
+
 To do: Striving for the total penetration of the solution into all spheres of human life.
 
 # Main References
